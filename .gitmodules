@@ -1,0 +1,3 @@
+[submodule "external/axmol"]
+	path = external/axmol
+	url = https://github.com/axmolengine/axmol
