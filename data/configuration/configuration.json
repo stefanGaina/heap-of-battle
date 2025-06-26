@@ -1,0 +1,8 @@
+{
+    "width": 1600,
+    "height": 900,
+    "title": "heap-of-battle",
+    "icon": "assets/textures/icon.png",
+    "scenes_directory": "../lib",
+    "starting_scene": "hob_main_menu"
+}
