@@ -1,14 +1,54 @@
 {
     "sprites": [
         {
-            "name": "test",
+            "name": "up_idle",
             "texture": "assets/textures/footman.png",
             "x": 0,
             "y": 0,
             "width": 512,
             "height": 512,
-            "scale_x": 0.5,
-            "scale_y": 0.5
+            "scale_x": 0.3,
+            "scale_y": 0.3
+        },
+        {
+            "name": "up_walk_0",
+            "texture": "assets/textures/footman.png",
+            "x": 512,
+            "y": 0,
+            "width": 512,
+            "height": 512,
+            "scale_x": 0.3,
+            "scale_y": 0.3
+        },
+        {
+            "name": "up_walk_1",
+            "texture": "assets/textures/footman.png",
+            "x": 1024,
+            "y": 0,
+            "width": 512,
+            "height": 512,
+            "scale_x": 0.3,
+            "scale_y": 0.3
+        },
+        {
+            "name": "up_walk_2",
+            "texture": "assets/textures/footman.png",
+            "x": 1536,
+            "y": 0,
+            "width": 512,
+            "height": 512,
+            "scale_x": 0.3,
+            "scale_y": 0.3
+        },
+        {
+            "name": "up_walk_3",
+            "texture": "assets/textures/footman.png",
+            "x": 2048,
+            "y": 0,
+            "width": 512,
+            "height": 512,
+            "scale_x": 0.3,
+            "scale_y": 0.3
         }
     ]
 }
